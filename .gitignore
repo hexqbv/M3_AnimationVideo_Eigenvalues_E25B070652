@@ -1,0 +1,18 @@
+# Rendered video (large binary — submit separately)
+M3_AnimationVideo_Eigenvalues_E25B070652_Video.mp4
+
+# Manim render cache
+M3_Code/media/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Audio (large WAV files — keep in repo but note below)
+# M3_Code/audio/     <- intentionally tracked for reproducibility
